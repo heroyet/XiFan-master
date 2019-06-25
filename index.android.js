@@ -10,6 +10,8 @@ import {
 } from 'react-native';
 import App from './App';
 
+
+//添加备注11
 class XiFan extends Component {
 
   render(){
