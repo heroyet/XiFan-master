@@ -538,7 +538,7 @@ console.log('video player url = '+url);
 			}
 			coll.setTime(time);
 			sqlite.saveCollection(coll).then(()=>{
-                Toast.show('收藏成功');
+                Toast.show('收藏成功！');
 				this.setState({
 					isCollection:isCollection,
 				});

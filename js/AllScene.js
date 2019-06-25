@@ -6,7 +6,7 @@ import {
 export default class AllScene extends Component{
 	render(){
 		return(
-			<Text>更多</Text>
+			<Text>更多操作</Text>
 			);
 	}
 }
