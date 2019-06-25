@@ -1,0 +1,16 @@
+{
+  "name": "XiFan",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "cheerio-without-node-native": "0.20.2",
+    "events": "1.1.1",
+    "react": "^15.4.1",
+    "react-native": "^0.38.0",
+    "react-native-scrollable-tab-view": "^0.7.0",
+    "react-native-sqlite-storage": "^3.1.2"
+  }
+}
